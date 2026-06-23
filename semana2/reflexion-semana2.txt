@@ -1,0 +1,8 @@
+Es importante que un desarrollador aprenda a usar la terminal porque 
+le ayuda a encontrar, organizar y manejar los archivos de un proyecto
+ de forma más rápida. Con algunos comandos básicos puede entrar a 
+ carpetas, crear nuevas carpetas y ver los archivos que tiene guardados.
+ Aunque al principio puede parecer difícil, su uso facilita muchas tareas.
+ Además, muchos programas de programación utilizan la terminal 
+ para funcionar. Por eso, conocer lo básico de la terminal es una 
+ habilidad útil para cualquier desarrollador.
