@@ -1,0 +1,8 @@
+Pienso que existe una relación entre estos temas porque todos implican actuar con responsabilidad.
+Cuando buscamos información en internet, debemos asegurarnos de que provenga de fuentes confiables y no compartirla sin verificarla. 
+Esto ayuda a evitar la desinformación y los problemas que puede causar.De igual manera, la participación ciudadana
+requiere que las personas estén bien informadas para expresar sus opiniones y tomar decisiones de forma consciente. 
+Por otro lado, github permiten llevar un control ordenado de los cambios realizados en un proyecto, 
+lo que facilita encontrar errores y mantener la información organizada. Aunque se utilizan en contextos diferentes, 
+todos estos aspectos tienen algo en común: el buen manejo de la información. Considero que ser responsable con lo que consultamos,
+compartimos y registramos contribuye a obtener mejores resultados y a actuar de manera más consciente en el entorno digital
