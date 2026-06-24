@@ -1,0 +1,9 @@
+Es importante guardar los cambios en un proyecto de software porque 
+así se puede saber qué se ha hecho en cada momento. Con Git uno puede 
+ver el historial y entender cómo ha ido avanzando el trabajo. También 
+sirve mucho cuando algo se daña o deja de funcionar, porque se puede 
+volver a una versión anterior. Eso evita perder todo el progreso por 
+un error. Además ayuda a tener el proyecto más ordenado y no perderse 
+entre tantos cambios. Aunque el proyecto sea pequeño, igual es útil 
+porque siempre pueden surgir errores en general, Git hace que trabajar 
+en proyectos sea más tranquilo y controlado
